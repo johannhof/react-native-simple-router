@@ -3,4 +3,7 @@ module.exports = {
   plugins: [
     'react',
   ],
+  "rules": {
+    "import/no-unresolved": 0
+  }
 };
